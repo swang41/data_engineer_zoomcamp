@@ -3,6 +3,7 @@
 *.csv.gzip
 **/ny_taxi_postgres_data/*
 **/.ipynb_checkpoints/*
+*.parquet
 
 # Local .terraform directories
 **/.terraform/*
