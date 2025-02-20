@@ -4,9 +4,21 @@
 **/ny_taxi_postgres_data/*
 **/.ipynb_checkpoints/*
 *.parquet
+**/serving_dir/*
 
 # Local .terraform directories
 **/.terraform/*
+
+# airflow logs and plugins
+**/logs/*
+**/plugins/*
+
+# .env file
+**/.env
+
+# duckdb and db files
+*.duckdb
+*.db
 
 # .tfstate files
 *.tfstate
