@@ -5,6 +5,9 @@
 **/.ipynb_checkpoints/*
 *.parquet
 **/serving_dir/*
+**/zones/*
+**/yellow_tripdata_repartition/*
+
 
 # Local .terraform directories
 **/.terraform/*
